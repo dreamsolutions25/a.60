@@ -32,3 +32,9 @@ dist-ssr
 *.sw?
 
 .vercel
+
+# local tooling
+.taste-skill/
+shots/
+.impeccable/
+.vercel
